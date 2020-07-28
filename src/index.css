@@ -1,0 +1,19 @@
+
+@font-face{
+  font-family: 'RobotoMono';
+  src: url('./fontes/RobotoMono-Italic-VariableFont_wght.ttf')
+
+}
+* {
+  font-family: 'RobotoMono', monospace;
+}
+body {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+  justify-content: center;
+  background-color: black;
+  color: #fff;
+
+}
